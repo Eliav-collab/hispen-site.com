@@ -38,7 +38,7 @@ h2 {
     float: left;
 }
 
-.navMain a{
+.navMain a {
     text-decoration: none;
     display: inline-block;
     transition: transform 0.4s ease-in-out;
@@ -126,7 +126,7 @@ main h1 {
     width: 200px;
 }
 
-.div4img2{
+.div4img2 {
     border-radius: 17px;
     position: absolute;
     top: 228px;
@@ -138,11 +138,11 @@ p {
     margin: 0px;
 }
 
-#inputH3 a{
+#inputH3 a {
     color: wheat;
 }
 
-.eliav{
+.eliav {
     position: absolute;
     top: 10px;
     left: 1360px;
