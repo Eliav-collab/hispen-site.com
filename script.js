@@ -11,7 +11,7 @@ function inputUserNext() {
         document.getElementById('inputDiv').style.border = '0px';
         document.getElementById('inputH3').innerHTML = `
             <div>
-                <p> לא הכנסת נתונים <a href="http://127.0.0.1:5500/main.html">חזרה לדף הבית</a></p>
+                <p> לא הכנסת נתונים <a href="https://eliav-collab.github.io/hispen.site/">חזרה לדף הבית</a></p>
             </div>
         `;
     }
@@ -23,12 +23,13 @@ function inputUser() {
     document.getElementById('inputDiv2').style.display = 'none';
     if (inputPassword != '') {
         document.getElementById('inputH2').innerText = inputName;
+        document.getElementById('inputDiv').style.border = '0px';
 
     } else {
         document.getElementById('inputDiv').style.border = '0px';
         document.getElementById('inputH3').innerHTML = `
             <div>
-                <p> <a href="http://127.0.0.1:5500/main.html">חזרה לדף הבית</a> לא הכנסת נתונים </p>
+                <p> לא הכנסת נתונים <a href="https://eliav-collab.github.io/hispen.site/">חזרה לדף הבית</a></p>
             </div>
         `;
     }

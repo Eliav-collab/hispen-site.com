@@ -24,7 +24,7 @@ body {
     position: absolute;
     bottom: 540px;
     padding: 17px;
-    padding-top: 30px;
+    padding-top: 80px;
 }
 
 img {
@@ -142,3 +142,9 @@ p {
     color: wheat;
 }
 
+.eliav{
+    position: absolute;
+    top: 10px;
+    left: 1360px;
+    width: 70px;
+}
