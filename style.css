@@ -45,7 +45,7 @@ h2 {
     color: rgb(55, 55, 203);
 }
 
-a:hover {
+.navMain a:hover {
     transform: translateY(14px);
 }
 
@@ -67,8 +67,6 @@ h3 {
 main h1 {
     text-align: center;
 }
-
-
 
 #pStam {
     display: none;
@@ -147,4 +145,51 @@ p {
     top: 10px;
     left: 1360px;
     width: 70px;
+}
+
+.goUp {
+    background-color: rgb(52, 52, 120);
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+}
+
+footer {
+    background-color: rgb(51, 255, 245);
+    color: black;
+    border: 5px;
+    border-color: rgb(70, 70, 90);
+    border-style: double;
+}
+
+.footerInput {
+    display: inline-block;
+    padding-right: 70px;
+    width: 200px;
+}
+
+.footerA{
+    text-align: center;
+    display: inline-block;
+    padding-right: 70px;
+    width: 170px;
+    height: 100px;
+}
+
+.footerA a{
+    padding: 10px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.inputEmail,
+.inputMobile {
+    text-align: right;
+    padding: 10px;
+    font-size: 20px;
+    margin: 5px;
+    border: 3px;
+    border-color: rgb(70, 70, 90);
+    border-style: double;
 }
