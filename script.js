@@ -58,6 +58,12 @@ function colorsReplace() {
 
 
 function div2() {
+    let element = document.getElementById('bottomHr');
+    element.style.width = '100%';
+    element.style.position = 'absolute';
+    element.style.top = '375px';
+
+    document.getElementById('footer').style.display = 'none';
     document.getElementById('map').style.display = 'none';
     document.getElementById('sectionVideo').style.display = 'none';
     document.getElementById('inputDiv').style.display = 'none';
@@ -71,6 +77,12 @@ function div2() {
 }
 
 function div3() {
+    let element = document.getElementById('bottomHr');
+    element.style.width = '100%';
+    element.style.position = 'absolute';
+    element.style.top = '375px';
+
+    document.getElementById('footer').style.display = 'none';
     document.getElementById('map').style.display = 'none';
     document.getElementById('inputDiv').style.display = 'none';
     document.getElementById('sectionVideo').style.display = 'none';
@@ -85,6 +97,12 @@ function div3() {
 }
 
 function div4() {
+    let element = document.getElementById('bottomHr');
+    element.style.width = '100%';
+    element.style.position = 'absolute';
+    element.style.top = '375px';
+
+    document.getElementById('footer').style.display = 'none';
     document.getElementById('map').style.display = 'none';
     document.getElementById('sectionVideo').style.display = 'none';
     document.getElementById('inputDiv').style.display = 'none';
@@ -98,6 +116,12 @@ function div4() {
 }
 
 function div5() {
+    let element = document.getElementById('bottomHr');
+    element.style.width = '100%';
+    element.style.position = 'absolute';
+    element.style.top = '375px';
+
+    document.getElementById('footer').style.display = 'none';
     document.getElementById('map').style.display = 'none';
     document.getElementById('sectionVideo').style.display = 'none';
     document.getElementById('inputDiv').style.display = 'none';
@@ -111,6 +135,12 @@ function div5() {
 }
 
 function div6() {
+    let element = document.getElementById('bottomHr');
+    element.style.width = '100%';
+    element.style.position = 'absolute';
+    element.style.top = '375px';
+
+    document.getElementById('footer').style.display = 'none';
     document.getElementById('map').style.display = 'none';
     document.getElementById('sectionVideo').style.display = 'none';
     document.getElementById('inputDiv').style.display = 'none';
