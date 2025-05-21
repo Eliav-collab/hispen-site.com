@@ -61,7 +61,7 @@ h2 {
 
 main h1,
 h3 {
-    color: rgb(43, 126, 15);
+    color: rgb(54, 111, 254);
 }
 
 main h1 {
@@ -156,7 +156,7 @@ p {
 }
 
 footer {
-    background-color: rgb(47, 179, 40);
+    background-color: rgb(48, 23, 96);
     color: black;
     border: 5px;
     border-color: rgb(70, 70, 90);
@@ -193,4 +193,3 @@ footer {
     border-color: rgb(70, 70, 90);
     border-style: double;
 }
-

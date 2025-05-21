@@ -157,6 +157,3 @@ window.onload = function () {
     setInterval(changeImage, 2000);
     setInterval(colorsReplace, 1000);
 };
-
-
-
